@@ -1,9 +1,9 @@
 NAME		=	philo
 
-SRCS		= 	main.c \
-				utils.c \
-				death.c \
-				activity.c
+SRCS		= 	srcs/main.c \
+				srcs/utils.c \
+				srcs/death.c \
+				srcs/activity.c
 
 
 OBJS		= 	$(patsubst %.c,%.o,$(SRCS))

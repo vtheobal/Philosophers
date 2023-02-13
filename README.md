@@ -1,3 +1,7 @@
+<h1 align="center">
+	:sassy_man: ft_printf
+</h1>
+
 ### Запрос  :
   ```
 make && ./philo arg1 arg2 arg3 arg4 arg5

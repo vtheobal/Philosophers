@@ -1,5 +1,5 @@
 <h1 align="center">
-	:sassy_man: ft_printf
+	:sassy_man: Philosophers
 </h1>
 
 ### Запрос  :
